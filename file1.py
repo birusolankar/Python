@@ -16,7 +16,3 @@ if flag:
     print(f"{number} is prime number")
 else:
     print(f"{number} is not prime number")
-
-
-
-print("hello world")
